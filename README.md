@@ -52,3 +52,5 @@ orderByProps(obj, ["name", "level"])
 Используйте возможности `for-in` для перебора свойств объекта. Не забудьте написать unit-тесты, которые обеспечивают 100% покрытие функции, которую вы тестируете.
 
 ---
+
+[![Build status](https://ci.appveyor.com/api/projects/status/0a64y1pd9jh2g0pr/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-6-1/branch/main)
